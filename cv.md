@@ -39,7 +39,7 @@ Here is the link to my codeforces profile
 https://codeforces.com/profile/guntter
 
 ## Work experience
-I do not have any work experience
+I do not have any work experience.
 
 ## Education
 I am a third year student of Software Engineering department at American University of Central Asia
