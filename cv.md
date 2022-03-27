@@ -16,6 +16,7 @@ I have no working experience in companies. But I'm pretty ambitious and I'm quic
  1. C++
  2. Java
 
+
  
 * ***Development***
 
